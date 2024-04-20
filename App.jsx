@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
     <Routes>
       <Route path="/sign" element={<Sign/>}/>
-     
+      c
     </Routes>
     </BrowserRouter>
     </div>
